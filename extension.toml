@@ -1,0 +1,7 @@
+[extension]
+id = "yaml_helper"
+name = "Yaml Helper"
+version = "0.1.0"
+description = "Yaml Helper extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
